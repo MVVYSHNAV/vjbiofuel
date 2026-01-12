@@ -1,6 +1,6 @@
 export function About() {
     return (
-        <section id="about" className="py-[100px]">
+        <section id="about" className="section-spacing">
             <div className="container mx-auto px-4">
                 <div className="text-center mb-12">
                     <h5 className="text-[#e6c200] uppercase tracking-[2px] text-sm font-bold font-outfit mb-4">

@@ -5,7 +5,7 @@ import { FaLocationDot, FaPhone, FaClock, FaEnvelope } from "react-icons/fa6";
 
 export function Contact() {
     return (
-        <section id="contact" className="py-[100px] bg-white">
+        <section id="contact" className="section-spacing bg-white">
             <div className="container mx-auto px-4">
                 <div className="text-center mb-16 max-w-[600px] mx-auto">
                     <h2 className="text-4xl md:text-[2.5rem] font-bold text-[#2C3E50] mb-4">

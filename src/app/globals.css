@@ -166,4 +166,8 @@
   .text-slate-blue {
     color: var(--slate-blue);
   }
+
+  .section-spacing {
+    @apply py-[100px];
+  }
 }

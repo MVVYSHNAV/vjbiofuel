@@ -15,11 +15,11 @@ import {
 } from "@/components/ui/sheet";
 
 const navItems = [
-    { name: "Home", href: "#home" },
-    { name: "Products", href: "#products" },
-    { name: "Industries", href: "#industries" },
-    { name: "About Us", href: "#about" },
-    { name: "Contact", href: "#contact" },
+    { name: "Home", href: "/" },
+    { name: "Products", href: "/products" },
+    { name: "Industries", href: "/#industries" },
+    { name: "About Us", href: "/#about" },
+    { name: "Contact", href: "/#contact" },
 ];
 
 export function Navbar() {
